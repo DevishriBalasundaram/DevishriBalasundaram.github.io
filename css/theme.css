@@ -502,7 +502,7 @@ nav hr {
 .menu li a {
   font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size: 11px;
+  font-size: 23px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #777777;
@@ -3828,8 +3828,8 @@ footer.short-2 .contact-action:hover {
 }
 .simple-bar .logo {
   max-width: 800px;
-  max-height: 40px;
-  bottom: 12px;
+  max-height: 90px;
+  bottom: 36px;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
